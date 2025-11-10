@@ -1,2 +1,0 @@
-# FLF
-Fastest Line Follower
